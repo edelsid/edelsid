@@ -20,12 +20,6 @@
 <h2 align="center">Other useful things I know</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-<h2 align="center">Language stats</h2>
-
-<p align="center">
-<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelsid&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
