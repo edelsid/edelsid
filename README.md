@@ -3,14 +3,15 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-  As of now I'm studying to become a frontend developer and am keen on sharpening my skills. My current interests are React with its various additional instruments. I come from the field of graphical design, so you can see how frontend captured my attention! I do enjoy all things artsy! ❤
+  A beginner frontend developer keen on sharpening my skills. My current interests are React with its various additional instruments and Typescript. I come from the field of graphic design, so you can see how frontend captured my attention! I do enjoy all things artsy! ❤
 </p>
 
 <h2 align="center">Technologies</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">&nbsp;&nbsp;
