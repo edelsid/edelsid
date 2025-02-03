@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Ksenia!</h1>
+<h1 align="center">Hi! I'm Xenia!</h1>
 <h3 align="center">Also known as edelsid</h3>
 
 <h2 align="center">About me</h2>
