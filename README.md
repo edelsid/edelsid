@@ -21,6 +21,17 @@
 <h2 align="center">Other useful things I know</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+<h2 align="center">Contact me</h2>
+
+<p align="center">
+  <a href="mailto:cha.xenia@yandex.ru">
+    <img style="width: 36px; height: 36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email">
+  </a>&nbsp;&nbsp;
+  <a href="https://telegram.me/argainel">
+    <img style="width: 36px; height: 36px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram">
+  </a>
 </p>
