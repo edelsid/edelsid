@@ -28,10 +28,10 @@
 <h2 align="center">Contact me</h2>
 
 <p align="center">
-  <a href="mailto:cha.xenia@yandex.ru">
+  <a href="mailto:cha.xenia@yandex.ru" style="width: 36px; height: 36px; text-decoration: none">
     <img style="width: 36px; height: 36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email">
   </a>&nbsp;&nbsp;
-  <a href="https://telegram.me/argainel">
+  <a href="https://telegram.me/argainel" style="width: 36px; height: 36px; text-decoration: none">
     <img style="width: 36px; height: 36px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram">
   </a>
 </p>
