@@ -29,10 +29,10 @@
 
 <p align="center">
   <a href="mailto:cha.xenia@yandex.ru" target="_blank">
-    <img style="width: 36px; height: 36px align: center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email">
+    <img style="width: 36px; height: 36px; align: center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email">
   </a>
   &nbsp;&nbsp;
   <a href="https://telegram.me/argainel" target="_blank">
-    <img style="width: 36px; height: 36px align: center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram">
+    <img style="width: 36px; height: 36px; align: center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram">
   </a>
 </p>
